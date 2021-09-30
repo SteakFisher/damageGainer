@@ -1,0 +1,6 @@
+name: DamageGainer
+version: ${project.version}
+main: me.steakfisher.damagegainer.DamageGainer
+api-version: 1.17
+authors: [ steakfisher ]
+description: You gain the damage you take
